@@ -1,0 +1,25 @@
+title: <p align="center"> ROOPESH H S </p>
+logo: /assets/img/ROOPESH.jpg
+
+description:
+  <p align="center">
+  <a href="assets/img/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/roopesh-h-s-774365224">LinkedIn</a> |
+  <a href="https://github.com/ROOPHS">GitHub</a>
+  
+  <br>   
+  Software Engineer with expertise in 
+  AWS(EC2,ECR,S3,ROUTE53,IAM,Cloudfront,AMPLIFY,RDS)
+  Jenkins, Docker, Kubernates,CI/CD, ReactJS, NodeJS, 
+  Linux(Amazon Linux 2 & Ubuntu), SQL, 
+  Git, Python, Bash-Scripting,Jira, 
+  Powershell, PostgressSQL, Java(OOPS) ,
+  Robot Framework(Automation Testing), 
+  looking for a challenging career opportunity 
+  and collaboration in Software development.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
