@@ -1,2 +1,0 @@
-# ROOPHS.github.io
-Portfolio
